@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-11T08:26:26Z" name="Suite1" finished-at="2020-03-11T08:26:38Z" duration-ms="11998">
+    <groups>
+    </groups>
+    <test started-at="2020-03-11T08:26:26Z" name="Regression1" finished-at="2020-03-11T08:26:38Z" duration-ms="11998">
+      <class name="com.qa.tests.DemoTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.tests.DemoTest@15a04efb]" started-at="2020-03-11T13:56:26Z" name="beforeTest" finished-at="2020-03-11T13:56:27Z" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.tests.DemoTest1@16c069df]" started-at="2020-03-11T13:56:27Z" name="beforeTest" finished-at="2020-03-11T13:56:27Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.tests.DemoTest2@2bec854f]" started-at="2020-03-11T13:56:27Z" name="beforeTest" finished-at="2020-03-11T13:56:27Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="sum()[pri:1, instance:com.qa.tests.DemoTest@15a04efb]" started-at="2020-03-11T13:56:27Z" name="sum" finished-at="2020-03-11T13:56:34Z" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sub()[pri:2, instance:com.qa.tests.DemoTest@15a04efb]" started-at="2020-03-11T13:56:38Z" name="sub" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="div()[pri:3, instance:com.qa.tests.DemoTest@15a04efb]" started-at="2020-03-11T13:56:38Z" name="div" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="multi()[pri:4, instance:com.qa.tests.DemoTest@15a04efb]" started-at="2020-03-11T13:56:38Z" name="multi" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+      </class> <!-- com.qa.tests.DemoTest -->
+      <class name="com.qa.tests.DemoTest1">
+        <test-method signature="sum()[pri:1, instance:com.qa.tests.DemoTest1@16c069df]" started-at="2020-03-11T13:56:34Z" name="sum" finished-at="2020-03-11T13:56:36Z" duration-ms="2277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sub()[pri:2, instance:com.qa.tests.DemoTest1@16c069df]" started-at="2020-03-11T13:56:38Z" name="sub" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="div()[pri:3, instance:com.qa.tests.DemoTest1@16c069df]" started-at="2020-03-11T13:56:38Z" name="div" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="multi()[pri:4, instance:com.qa.tests.DemoTest1@16c069df]" started-at="2020-03-11T13:56:38Z" name="multi" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+      </class> <!-- com.qa.tests.DemoTest1 -->
+      <class name="com.qa.tests.DemoTest2">
+        <test-method signature="sum()[pri:1, instance:com.qa.tests.DemoTest2@2bec854f]" started-at="2020-03-11T13:56:36Z" name="sum" finished-at="2020-03-11T13:56:38Z" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method signature="sub()[pri:2, instance:com.qa.tests.DemoTest2@2bec854f]" started-at="2020-03-11T13:56:38Z" name="sub" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="div()[pri:3, instance:com.qa.tests.DemoTest2@2bec854f]" started-at="2020-03-11T13:56:38Z" name="div" finished-at="2020-03-11T13:56:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="multi()[pri:4, instance:com.qa.tests.DemoTest2@2bec854f]" started-at="2020-03-11T13:56:38Z" name="multi" finished-at="2020-03-11T13:56:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+      </class> <!-- com.qa.tests.DemoTest2 -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

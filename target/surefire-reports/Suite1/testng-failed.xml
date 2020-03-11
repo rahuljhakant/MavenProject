@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite1]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="Regression1">
+    <packages>
+      <package name="com.qa.tests"/>
+    </packages>
+    <classes>
+      <class name="com.qa.tests.DemoTest"/>
+      <class name="com.qa.tests.DemoTest1"/>
+      <class name="com.qa.tests.DemoTest2"/>
+    </classes>
+  </test> <!-- Regression1 -->
+</suite> <!-- Failed suite [Suite1] -->
